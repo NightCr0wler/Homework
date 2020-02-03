@@ -7,7 +7,7 @@ def Good (a,b):
 
     list = []
 
-    for i in range(a):
+    for a in range(a):
         list.append(rnd(0,b))
     return list
 
