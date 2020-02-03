@@ -1,7 +1,6 @@
 from random import randint as rnd
 
-def wey1 (a,b,c)
+a = rnd(0,999)
+t = dict.fromkeys([str(input("Введіть будь-яку фразу та натисніть Enter: "))], a)
 
-used = (str('Введидите слово: '))
-dict = {a}
-print(a)
+print (t)
