@@ -1,6 +1,6 @@
 from random import randint as rnd
 
-a = (int(input( 'Введите длину списка:')))
+a = (int(input('Введите длину списка:')))
 b = (int(input('Введите максимальное значение элемента списка: ')))
 
 def Good (a,b):

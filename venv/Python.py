@@ -15,5 +15,3 @@ elif a == b:
         print('Ужасно')
     elif (a + b) == b:
         print('О УЖАС')
-
-
